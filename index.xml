@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>bazar</title>
+      <link>https://stezux.github.io/quartz</link>
+      <description>Last 10 notes on bazar</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Daredevil par Ed Brubacker</title>
+    <link>https://stezux.github.io/quartz/Daredevil-par-Ed-Brubacker</link>
+    <guid>https://stezux.github.io/quartz/Daredevil-par-Ed-Brubacker</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 29 Nov 2025 20:28:04 GMT</pubDate>
+  </item><item>
+    <title>Sawmp Thing</title>
+    <link>https://stezux.github.io/quartz/Sawmp-Thing</link>
+    <guid>https://stezux.github.io/quartz/Sawmp-Thing</guid>
+    <description><![CDATA[ Jeff Lemire &amp; Doug Mahnke. ]]></description>
+    <pubDate>Sat, 29 Nov 2025 20:24:39 GMT</pubDate>
+  </item><item>
+    <title>Predator Badlands</title>
+    <link>https://stezux.github.io/quartz/Predator-Badlands</link>
+    <guid>https://stezux.github.io/quartz/Predator-Badlands</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 29 Nov 2025 19:37:08 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://stezux.github.io/quartz/</link>
+    <guid>https://stezux.github.io/quartz/</guid>
+    <description><![CDATA[ Mon Jardin Numérique Ici, je note ce que je lis et ce que je vois. et en plus je … et encore. ]]></description>
+    <pubDate>Sat, 29 Nov 2025 10:33:25 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
